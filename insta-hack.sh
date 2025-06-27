@@ -178,7 +178,8 @@ Warning:This tool is only for educational purpose. If you use this tool for othe
 -----------------------------------------
 
 Socials:
-Instagram: @wecrywiki
+Instagram: @eraykztk-nl
+
  Telegram: @mrmatoi \e[1;36m"
         cd $HOME
 
